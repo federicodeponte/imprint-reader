@@ -1,0 +1,41 @@
+{
+  "timestamp": "20250722_102647",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:26:59",
+    "timezone": "WEST"
+  },
+  "url": "https://osi4.de",
+  "imprint_url": "https://osi4.de/impressum/",
+  "imprint_data": {
+    "company_name": "OSI4 UG (haftungsbeschränkt)",
+    "managing_directors": [
+      "Mathias Baumann"
+    ],
+    "business_address": {
+      "street": "Löwenstr. 27a",
+      "city": "Stutensee",
+      "postal_code": "76297",
+      "country": "Germany"
+    },
+    "phone_numbers": [
+      "+49 (0) 7249 387 34 36"
+    ],
+    "email_addresses": [
+      "kontakt@osi4.de"
+    ],
+    "website_url": "https://osi4.de",
+    "registration_details": {
+      "trade_register": "Commercial Register",
+      "registration_number": "HRB 737159",
+      "court": "Mannheim"
+    },
+    "vat_id": "DE 332160102",
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {
+      "Verkehrsleiter (BOKraft)": "Mathias Baumann"
+    }
+  },
+  "markdown_content": "OSI4 - Impressum\n\n\n\n[![OSI4 Logo](/img/logo-white.png)](/)\n\n* [Startseite](/)\n* [Aktuelles](/aktuelles/)\n* [Busverkehre](/busverkehre/)\n* [Fahrgastinformation](/fahrgastinformationssysteme/)\n* [IT-LÃ¶sungen](/it-loesungen/)\n\n## Impressum\n\nOSI4 UG (haftungsbeschrÃ¤nkt)  \nLÃ¶wenstr. 27a  \n76297 Stutensee  \nkontakt@osi4.de  \n+49 (0) 7249 387 34 36\n\nVertreten durch: Mathias Baumann (GeschÃ¤ftsfÃ¼hrer)\n\nVerkehrsleiter (BOKraft): Mathias Baumann\n\nRegistergericht: Registergericht Mannheim  \nRegisternummer: HRB 737159  \nUmsatzsteuer-Identifikationsnummer: DE 332160102\n\n* Copyright 2025 - OSI4 UG (haftungsbeschrÃ¤nkt)\n\n* [Impressum](/impressum/)"
+}

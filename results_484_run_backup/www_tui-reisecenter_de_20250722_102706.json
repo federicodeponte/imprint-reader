@@ -1,0 +1,42 @@
+{
+  "timestamp": "20250722_102706",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:27:14",
+    "timezone": "WEST"
+  },
+  "url": "http://www.tui-reisecenter.de",
+  "imprint_url": "https://www.tui-reisecenter.de/impressum",
+  "imprint_data": {
+    "company_name": "TUI Deutschland GmbH",
+    "managing_directors": [
+      "Benjamin Jacobi",
+      "Dr. Susanne Gauglitz"
+    ],
+    "business_address": {
+      "street": "Karl-Wiechert-Allee 23",
+      "city": "Hannover",
+      "postal_code": "30625",
+      "country": "Germany"
+    },
+    "phone_numbers": [
+      "0511-567-0"
+    ],
+    "email_addresses": [
+      "info@tui.info"
+    ],
+    "website_url": "https://www.tui-reisecenter.de",
+    "registration_details": {
+      "trade_register": "Amtsgericht Hannover",
+      "registration_number": "HRB 62522",
+      "court": "Amtsgericht Hannover"
+    },
+    "vat_id": null,
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {
+      "chairman_of_supervisory_board": "Mathias Kiep"
+    }
+  },
+  "markdown_content": "Hallo Welt!\n\n\n\n\n![logo](/wp-content/themes/travelagency-tui/img/trc.svg)\n\n# Impressum\n\ntui-reisecenter.de ist eine Seite der:  \n  \nTUI Deutschland GmbH  \nKarl-Wiechert-Allee 23  \n30625 Hannover  \nTelefon: 0511-567-0  \nE-Mail:info@tui.info  \n  \nVorsitzender des Aufsichtsrates: Mathias Kiep | Geschäftsführung: Benjamin Jacobi (Vorsitzender), Dr. Susanne Gauglitz | Sitz der Gesellschaft: Hannover | Handelsregister: Amtsgericht Hannover HRB 62522  \n  \nChairman of the Supervisory Board: Mathias Kiep | Managing Directors: Benjamin Jacobi (CEO), Dr. Susanne Gauglitz | Registered Company Office: Hannover | Commercial Register: Amtsgericht Hannover HRB 62522\n\n[AGB](https://www.tui-reisecenter.de/agb)\n[Datenschutz](https://www.tui-reisecenter.de/datenschutz)\n[Impressum](https://www.tui-reisecenter.de/impressum)\n[Barrierefreiheit](https://www.tui-reisecenter.de/barrierefreiheit)\n[Wie melde ich Bedenken?](https://www.tuigroup.com/de-de/verantwortung/wie-melde-ich-bedenken)"
+}

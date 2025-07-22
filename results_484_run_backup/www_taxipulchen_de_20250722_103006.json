@@ -1,0 +1,42 @@
+{
+  "timestamp": "20250722_103006",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:30:14",
+    "timezone": "WEST"
+  },
+  "url": "http://www.taxipulchen.de",
+  "imprint_url": "http://www.taxipulchen.de/impressum.html",
+  "imprint_data": {
+    "company_name": "Taxi Pulchen Albert Schmitt GmbH",
+    "managing_directors": [
+      "Thomas Pulchen"
+    ],
+    "business_address": {
+      "street": "Saarwellinger Str. 61",
+      "city": "Saarlouis",
+      "postal_code": "66740",
+      "country": "Germany"
+    },
+    "phone_numbers": [
+      "06831-84444",
+      "06831-83333"
+    ],
+    "email_addresses": [
+      "Taxi@Pulchen.de"
+    ],
+    "website_url": null,
+    "registration_details": {
+      "trade_register": "AG Saarlouis",
+      "registration_number": "HRB 5214",
+      "court": "AG Saarlouis"
+    },
+    "vat_id": "DE 137.872.353",
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {
+      "content_responsible": "Thomas Pulchen"
+    }
+  },
+  "markdown_content": "Taxi Pulchen\n\n\n\n[Taxi Pulchen](index.html)\n[Ãber uns](ueber_uns.html)\n[Preise](preise.html)\n[Services](services.html)\n[Kontakt](kontakt.html)\n[Impressum](impressum.html)\n\n# Impressum\n\n  \n  \n  \nTaxi Pulchen Albert Schmitt GmbH\n  \nSaarwellinger Str. 61\n  \nD - 66740 Saarlouis\n  \n  \n  \nTelefon: 06831-84444\n  \n  \nFax: 06831-83333\n  \n  \nE-Mail: Taxi@Pulchen.de\n  \n  \n  \nHandelsregister: AG Saarlouis, HRB 5214\n  \nMwst.ID-Nr.: DE 137.872.353\n  \n  \n  \nGeschÃ¤ftsfÃ¼hrer und alleiniger Gesellschafter: Thomas Pulchen\n  \n  \nInhaltlich verantwortlich: Thomas Pulchen"
+}

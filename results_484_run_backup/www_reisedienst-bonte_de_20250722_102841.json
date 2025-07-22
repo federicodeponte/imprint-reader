@@ -1,0 +1,45 @@
+{
+  "timestamp": "20250722_102841",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:28:58",
+    "timezone": "WEST"
+  },
+  "url": "http://www.reisedienst-bonte.de",
+  "imprint_url": "http://www.reisedienst-bonte.de/impressum",
+  "imprint_data": {
+    "company_name": "Reisedienst Bonte GmbH & Co. KG",
+    "managing_directors": [
+      "Michael Bonte",
+      "Tanja Bonte"
+    ],
+    "business_address": {
+      "street": "Am Nordbahnhof 7",
+      "city": "Schwalmstadt",
+      "postal_code": "34613",
+      "country": "Germany"
+    },
+    "phone_numbers": [
+      "+49 (0) 6691-927292-0",
+      "05624 99699"
+    ],
+    "email_addresses": [
+      "info@reisedienst-bonte.de"
+    ],
+    "website_url": null,
+    "registration_details": {
+      "trade_register": "Handelsregister",
+      "registration_number": "HRA 4617",
+      "court": "Amtsgericht Marburg"
+    },
+    "vat_id": "DE 280 922 959",
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {
+      "responsible_for_content": "Michael Bonte",
+      "eu_dispute_resolution_platform": "https://ec.europa.eu/consumers/odr/",
+      "consumer_dispute_resolution_statement": "We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
+    }
+  },
+  "markdown_content": "Impressum - Reisedienst Bonte GmbH & Co.KG\n\n\n\n[Zum Hauptinhalt springen](#page-content)\n\n[![Reisedienst Bonte GmbH & Co.KG logo](/typo3conf/ext/bootstrap_package/Resources/Public/Images/BONTE-Schriftzug-gruen-mitSchatten-2.png)![Reisedienst Bonte GmbH & Co.KG logo](/typo3conf/ext/bootstrap_package/Resources/Public/Images/BootstrapPackageInverted.svg)](/)\n\n\n\n* [Unternehmen](/unternehmen \"Unternehmen\")\n* [Reisen](/reisen \"Reisen\")\n  + [Urlaubsreisen](/reisen/urlaubsreisen \"Urlaubsreisen\")\n  + [Kreuzfahrten](/reisen/kreuzfahrten \"Kreuzfahrten\")\n  + [Tagesfahrten](/reisen/tagesfahrten \"Tagesfahrten\")\n* [Gruppenreisen](/gruppenreisen \"Gruppenreisen\")\n* [Linienverkehr](/linienverkehr \"Linienverkehr\")\n* [Karriere](/karriere \"Karriere\")\n\n## Impressum\n\n**Impressum**\n\nReisedienst Bonte GmbH & Co. KG\n\nAm Nordbahnhof 7\n\n34613 Schwalmstadt\n\nHandelsregister: HRA 4617\n\nRegistergericht: Amtsgericht Marburg\n\n**Vertreten durch:**\n\nMichael Bonte, OVB Omnibusverkehr Bonte GmbH\n\n**Diese vertreten durch die Geschäftsführer:**\n\nMichael Bonte, Tanja Bonte\n\nSitz: Schwalmstadt\n\nHandelsregister: HRB 5232\n\nRegistergericht: Amtsgericht Marburg\n\n**Kontakt**\n\nTelefon: +49 (0) 6691-927292-0\n\nTelefax: +49 (0) 6691-927292-80\n\nE-Mail: info@reisedienst-bonte.de\n\n**Umsatzsteuer-ID**\n\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\n\nDE 280 922 959\n\n**Redaktionell verantwortlich**\n\nMichael Bonte\n\n**EU-Streitschlichtung**\n\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <https://ec.europa.eu/consumers/odr/>.\n\nUnsere E-Mail-Adresse finden Sie oben im Impressum.\n\n**Verbraucherstreitbeilegung/Universalschlichtungsstelle**\n\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\n#### Kontakt zu uns\n\nReisedienst Bonte GmbH & Co.KG  \n Am Nordbahnhof 7  \n 34613 Schwalmstadt  \n Telefon: 06691 9272920\n\nAm Frießelsbach 12-14  \n 34305 Niedenstein  \n Telefon: 05624 99699\n\nE-Mail: [info@reisedienst-bonte.de](mailto:info@reisedienst-bonte.de)\n\n#### Unsere Öffnungszeiten\n\n**Standort Schwalmstadt**  \n Montag bis Freitag\n\n08:00 bis 12:00 Uhr und 14:00 bis 18:00 Uhr\n\n**Standort Niedenstein**  \n Montag bis Donnerstag\n\n09:00 bis 12:30 Uhr und 14:00 bis 17:00 Uhr\n\nFreitag\n\n09:00 bis 13:00 Uhr\n\n#### Schnellverweis\n\n[Reisen](/reisen)\n\n[ERGO Reiseversicherung](http://www.ergo-reiseversicherung.de)\n\n[Impressum](/impressum)\n\n[AGB](/agb)\n\n[Datenschutz](/datenschutz-1)\n\n* [English](/impressum \"English\")\n* Deutsch\n\nRunning with [TYPO3](http://www.typo3.org) and [Bootstrap Package](https://www.bootstrap-package.com).\n\n* [Facebook](https://www.facebook.com/reisedienstbonte)"
+}

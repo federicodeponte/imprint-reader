@@ -1,0 +1,33 @@
+{
+  "timestamp": "20250722_103413",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:34:28",
+    "timezone": "WEST"
+  },
+  "url": "http://www.queichtal-nahverkehr.de",
+  "imprint_url": "http://www.queichtal-nahverkehr.de/impressum",
+  "imprint_data": {
+    "company_name": "QNV",
+    "managing_directors": null,
+    "business_address": {
+      "street": null,
+      "city": null,
+      "postal_code": null,
+      "country": null
+    },
+    "phone_numbers": null,
+    "email_addresses": null,
+    "website_url": null,
+    "registration_details": {
+      "trade_register": null,
+      "registration_number": null,
+      "court": null
+    },
+    "vat_id": null,
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {}
+  },
+  "markdown_content": "QNV\n\n\n\n\nJavaScript ist deaktiviert. Bitte aktivieren Sie JavaScript, um diese Seite zu nutzen.\n\n  \n\nJavaScript is disabled. Please enable JavaScript to use this site."
+}

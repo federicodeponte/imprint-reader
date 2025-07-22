@@ -1,0 +1,41 @@
+{
+  "timestamp": "20250722_101851",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:19:04",
+    "timezone": "WEST"
+  },
+  "url": "http://www.mitbus.de",
+  "imprint_url": "http://www.mitbus.de/impressum",
+  "imprint_data": {
+    "company_name": "Mit.Bus GmbH",
+    "managing_directors": [
+      "Dipl.-Kfm. Mathias Carl"
+    ],
+    "business_address": {
+      "street": "Lahnstraße 31",
+      "city": "Gießen",
+      "postal_code": "35398",
+      "country": "Germany"
+    },
+    "phone_numbers": [
+      "0641 708-1260"
+    ],
+    "email_addresses": [
+      "info@mitbus.de"
+    ],
+    "website_url": "https://www.mitbus.de",
+    "registration_details": {
+      "trade_register": "Handelsregister",
+      "registration_number": "HRB 6018",
+      "court": "Amtsgericht Gießen"
+    },
+    "vat_id": "DE 230207497",
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {
+      "copyright_notice": "© 2025 Mit.Bus GmbH"
+    }
+  },
+  "markdown_content": "Impressum - Mit.Bus GmbH\n\n\n\n[![Mit.Bus Logo](/typo3conf/ext/q4u_template/Resources/Public/Images/logo.png)](/)\n![](/fileadmin/_migrated/media/Meta.jpg)\n\n* [![Tickets](/typo3conf/ext/q4u_template/Resources/Public/Images/nav_tickets.png)](/tickets)\n* [![Fahrplan](/typo3conf/ext/q4u_template/Resources/Public/Images/nav_fahrplan.png)](/fahrplan)\n* [![Werbung](/typo3conf/ext/q4u_template/Resources/Public/Images/nav_werbung.png)](/werbung)\n* [![Historie](/typo3conf/ext/q4u_template/Resources/Public/Images/nav_historie.png)](/historie)\n* [![Service](/typo3conf/ext/q4u_template/Resources/Public/Images/nav_service.png)](/service)\n\n* [Home](/)\n* [Sitemap](/sitemap)\n\nSuchen\n\n* [Aktuelles](/aktuelles)\n* [Unternehmen](/unternehmen)\n\n## Nahverkehr\n\n\n\n* Abfahrt\n* Ankunft\n\nVonNach\n\nDatum\n\nUhrzeit\n\n* [MITBUS](/)\n* [Impressum](/impressum)\n\n# Impressum\n\n|  |  |\n| --- | --- |\n| **Hausanschrift** | Lahnstraße 31 35398 Gießen |\n| **Telefon** | 0641 708-1260 |\n| **Telefax** | 0641 708-3147 |\n| **E-Mail** | **[info@mitbus.de](mailto:info@mitbus.de)** |\n| **Internet** | **[www.mitbus.de](http://www.stadtwerke-giessen.de/ \"Öffnet externen Link in neuem Fenster\")** |\n| **Geschäftsführer** | Dipl.-Kfm. Mathias Carl |\n| **Handelsregister** | Amtsgericht Gießen, HRB 6018 |\n| **Umsatzsteuer-Identifikationsnummer** | DE 230207497 |\n\n© 2025 Mit.Bus GmbH\n\n* [Impressum](/impressum)\n* [Datenschutzerklärung](/datenschutzerklaerung)\n\n[Zum Seitenanfang](#top)"
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "20250722_103317",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:33:25",
+    "timezone": "WEST"
+  },
+  "url": "https://www.moseltal-omnibusse.de",
+  "imprint_url": "https://www.moseltal-omnibusse.de/impressum.php",
+  "imprint_data": {
+    "company_name": "Moseltal Omnibusse Kühnel, Moseberg, Schulligen GbR",
+    "managing_directors": [
+      "Oliver Kühnel",
+      "Alexander Schulligen"
+    ],
+    "business_address": {
+      "street": "Hohler Weg 3",
+      "city": "Igel",
+      "postal_code": "54298",
+      "country": "Germany"
+    },
+    "phone_numbers": [
+      "+49 171 5255076"
+    ],
+    "email_addresses": [
+      "info@moseltal-omnibusse.de"
+    ],
+    "website_url": null,
+    "registration_details": {
+      "trade_register": null,
+      "registration_number": null,
+      "court": null
+    },
+    "vat_id": "DE360520519",
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {}
+  },
+  "markdown_content": "Impressum | MTO\n\n\n\n\n\n![](resources/images/logo/Logo_2b.svg)\n\n![](resources/images/logo/Logo_2b.svg)\n\n[![](resources/images/logo/Logo_1b.svg)](/)\n\n[Leistungen](leistungen.php)\n\n[Fuhrpark](fuhrpark.php)\n\n[Über uns](ueberuns.php)\n\n[Kontakt](kontakt.php)\n\n[![](resources/images/logo/Logo_2.svg)](/)\n![](resources/images/divers/head1.jpg)\n\n[## Leistungen](leistungen.php)\n[## Fuhrpark](fuhrpark.php)\n[## Über uns](ueberuns.php)\n[## Kontakt](kontakt.php)\n\n# Impressum\n\n  \n\nMoseltal Omnibusse  \nKühnel, Moseberg, Schulligen GbR  \nHohler Weg 3  \nD-54298 Igel\n\n  \n\n### Vertreten durch\n\nOliver Kühnel  \nAlexander Schulligen\n\n## Kontakt\n\n[info@moseltal-omnibusse.de](mailto:info@moseltal-omnibusse.de)\n  \n[+49 171 5255076](tel:+491715255076)\n\n## Umsatzsteuer-Identifikationsnummer\n\n#### DE360520519\n\n\n\n\n[![](resources/images/logo/20230403_MTO_Logo_Basis_wh.svg)](/)\n\n[AGB](agb.php)\n\n[Datenschutz](datenschutz.php)\n\n[Impressum](impressum.php)\n\n[![](resources/images/logo/20230403_MTO_Logo_Basis_wh.svg)](/)\n\n[AGB](agb.php)\n\n[Datenschutz](datenschutz.php)\n\n[Impressum](impressum.php)"
+}

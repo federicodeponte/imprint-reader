@@ -1,0 +1,43 @@
+{
+  "timestamp": "20250722_102812",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:28:30",
+    "timezone": "WEST"
+  },
+  "url": "http://sindbad.pl",
+  "imprint_url": "http://sindbad.pl/impressum",
+  "imprint_data": {
+    "company_name": "Mustermann Musterfirma GmbH",
+    "managing_directors": [
+      "Dr. Max Mustermann",
+      "Dipl.-Kff. Erika Musterfrau"
+    ],
+    "business_address": {
+      "street": "Musterstraße 123",
+      "city": "Musterstadt",
+      "postal_code": "12345",
+      "country": "Deutschland"
+    },
+    "phone_numbers": [
+      "+49 (0) 1234 567890",
+      "+49 (0) 1234 567891"
+    ],
+    "email_addresses": [
+      "info@musterfirma.de"
+    ],
+    "website_url": "https://www.musterfirma.de",
+    "registration_details": {
+      "trade_register": "HRB",
+      "registration_number": "12345",
+      "court": "Amtsgericht Musterstadt"
+    },
+    "vat_id": "DE123456789",
+    "tax_id": "01/234/56789",
+    "professional_liability_insurance": "Musterversicherung AG, Versicherungsallee 5, 87654 Versicherungsstadt, Deutschland. Geltungsbereich: Weltweit, ausgenommen die Vereinigten Staaten von Amerika und Kanada.",
+    "other_legal_info": {
+      "responsible_for_content": "Dr. Max Mustermann"
+    }
+  },
+  "markdown_content": ""
+}

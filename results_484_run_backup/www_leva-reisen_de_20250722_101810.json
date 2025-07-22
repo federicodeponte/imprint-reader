@@ -1,0 +1,42 @@
+{
+  "timestamp": "20250722_101810",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:18:18",
+    "timezone": "WEST"
+  },
+  "url": "https://www.leva-reisen.de",
+  "imprint_url": "https://www.leva-reisen.de/impressum.php?bez=8",
+  "imprint_data": {
+    "company_name": "Leva Reisen",
+    "managing_directors": [
+      "Wolfgang Leva"
+    ],
+    "business_address": {
+      "street": "Römerstraße 48",
+      "city": "Winnenden-Hertmannsweiler",
+      "postal_code": "71364",
+      "country": null
+    },
+    "phone_numbers": [
+      "07195- 174196",
+      "07195- 62079"
+    ],
+    "email_addresses": [
+      "info@leva-reisen.de"
+    ],
+    "website_url": "https://www.leva-reisen.de",
+    "registration_details": {
+      "trade_register": null,
+      "registration_number": null,
+      "court": null
+    },
+    "vat_id": null,
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {
+      "content_responsible_mdstv": "Wolfgang Leva"
+    }
+  },
+  "markdown_content": "Impressum\n\n\n\n|  |  |\n| --- | --- |\n| [Logo](/index.php) | Bilder |\n| [Reiseangebot](abfrage.php?bez=1) [Tagesfahrten](ausgabe.php?bez=2&auswahl=tag) [Sonderreisen](ausgabe.php?bez=3&auswahl=schnapp) [Vorschau](ausgabe.php?bez=4&auswahl=vorschau) [Kontakt](kontakt.php?bez=7) [Impressum](impressum.php?bez=8) | |  |  |  | | --- | --- | --- | |  | Wolfgang Leva  Römerstraße 48  71364 Winnenden-Hertmannsweiler  Telefon: 07195- 174196  Telefax: 07195- 62079  E-Mail: info@leva-reisen.de  Internet: www.leva-reisen.de  Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Wolfgang Leva |  | |\n|  | [Reiseangebote](abfrage.php?bez=1)|[Tagesfahrten](ausgabe.php?bez=2&auswahl=tag)|[Sonderreisen](ausgabe.php?bez=3&auswahl=schnapp)|[Vorschau](ausgabe.php?bez=4&auswahl=vorschau)|[Kontakt](kontakt.php?bez=7)|[Impressum](impressum.php?bez=8) |"
+}

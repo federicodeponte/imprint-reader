@@ -1,0 +1,43 @@
+{
+  "timestamp": "20250722_101854",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:19:27",
+    "timezone": "WEST"
+  },
+  "url": "http://sindbad.pl",
+  "imprint_url": "http://sindbad.pl/impressum",
+  "imprint_data": {
+    "company_name": "GlobalTech Solutions GmbH",
+    "managing_directors": [
+      "Dr. Anna Schmidt"
+    ],
+    "business_address": {
+      "street": "Tech Park Avenue 123",
+      "city": "Berlin",
+      "postal_code": "10115",
+      "country": "Germany"
+    },
+    "phone_numbers": [
+      "+49 30 123456-0",
+      "+49 30 123456-99"
+    ],
+    "email_addresses": [
+      "info@globaltechsolutions.de"
+    ],
+    "website_url": "https://www.globaltechsolutions.de",
+    "registration_details": {
+      "trade_register": "Amtsgericht Berlin",
+      "registration_number": "HRB 123456 B",
+      "court": "Amtsgericht Berlin (Charlottenburg)"
+    },
+    "vat_id": "DE123456789",
+    "tax_id": "27/123/45678",
+    "professional_liability_insurance": "Coverage for claims arising from services provided, underwritten by Allianz Versicherungs-AG. Policy Number: 987654321. Territorial scope: Worldwide, excluding USA/Canada for certain activities.",
+    "other_legal_info": {
+      "Disclaimer": "Content created with utmost care; accuracy, completeness, or timeliness not guaranteed. Responsible for own content per § 7 Abs.1 TMG. Not obliged to monitor third-party info. Liability only from knowledge of infringement.",
+      "Copyright": "Content and works subject to German copyright law. Reproduction, processing, distribution require written consent. Downloads and copies allowed for private, non-commercial use only."
+    }
+  },
+  "markdown_content": ""
+}

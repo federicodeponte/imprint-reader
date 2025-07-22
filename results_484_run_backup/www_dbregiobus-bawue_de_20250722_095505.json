@@ -1,0 +1,203 @@
+{
+  "timestamp": "20250722_095505",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "09:55:31",
+    "timezone": "WEST"
+  },
+  "url": "http://www.dbregiobus-bawue.de",
+  "imprint_url": "http://www.dbregiobus-bawue.de/home/impressum",
+  "imprint_data": {
+    "imprint_for": "DB Regio Bus Baden-Württemberg",
+    "website_url": "https://www.dbregiobus-bawue.de/",
+    "data_protection_officer": {
+      "name": "Dr. Marein Müller",
+      "email": "konzerndatenschutz@deutschebahn.com"
+    },
+    "companies": [
+      {
+        "company_name": "BRN Busverkehr Rhein-Neckar GmbH",
+        "managing_directors": [
+          "Andreas Pfingst",
+          "Nils Stegemann",
+          "Karlheinz Nuissl"
+        ],
+        "business_address": {
+          "type": "Sitz der Verwaltung",
+          "street": "Gutschstraße 4",
+          "city": "Karlsruhe",
+          "postal_code": "76137",
+          "country": "Germany"
+        },
+        "registered_office_city": "Ludwigshafen/Rh.",
+        "phone_numbers": [],
+        "email_addresses": [
+          "busbw@deutschebahn.com"
+        ],
+        "website_url": null,
+        "registration_details": {
+          "trade_register": {
+            "court": "Ludwigshafen/Rh.",
+            "number": "HRB 3089"
+          }
+        },
+        "vat_id": "DE 149137974",
+        "professional_liability_insurance_details": null,
+        "other_relevant_info": [
+          {
+            "role": "Verantwortlich für die Inhalte",
+            "name": "Anke Krüger-Wilsch",
+            "department": "Marketing und Kommunikation"
+          }
+        ]
+      },
+      {
+        "company_name": "Südwestbus RVS Regionalbusverkehr Südwest GmbH",
+        "managing_directors": [
+          "Andreas Pfingst",
+          "Nils Stegemann",
+          "Frank Wilsing",
+          "Jens Heinrich"
+        ],
+        "business_address": {
+          "type": "Sitz der Verwaltung",
+          "street": "Gutschstraße 4",
+          "city": "Karlsruhe",
+          "postal_code": "76137",
+          "country": "Germany"
+        },
+        "registered_office_city": "Karlsruhe",
+        "phone_numbers": [],
+        "email_addresses": [
+          "busbw@deutschebahn.com"
+        ],
+        "website_url": null,
+        "registration_details": {
+          "trade_register": {
+            "court": "Mannheim",
+            "number": "HRB 105225"
+          }
+        },
+        "vat_id": "DE143604917",
+        "professional_liability_insurance_details": null,
+        "other_relevant_info": [
+          {
+            "role": "Verantwortlich für die Inhalte",
+            "name": "Anke Krüger-Wilsch",
+            "department": "Marketing und Kommunikation"
+          }
+        ]
+      },
+      {
+        "company_name": "SBG SüdbadenBus Gesellschaft mbH",
+        "managing_directors": [
+          "Andreas Pfingst",
+          "Nils Stegemann",
+          "Markus Jehle"
+        ],
+        "business_address": {
+          "type": "Sitz der Verwaltung",
+          "street": "Gutschstraße 4",
+          "city": "Karlsruhe",
+          "postal_code": "76137",
+          "country": "Germany"
+        },
+        "registered_office_city": "Freiburg",
+        "phone_numbers": [],
+        "email_addresses": [
+          "busbw@deutschebahn.com"
+        ],
+        "website_url": null,
+        "registration_details": {
+          "trade_register": {
+            "court": null,
+            "number": "HRB 3609"
+          }
+        },
+        "vat_id": "DE 142113829",
+        "professional_liability_insurance_details": null,
+        "other_relevant_info": [
+          {
+            "role": "Verantwortlich für die Inhalte",
+            "name": "Anke Krüger-Wilsch",
+            "department": "Marketing und Kommunikation"
+          }
+        ]
+      },
+      {
+        "company_name": "Friedrich Müller Omnibusunternehmen GmbH (FMO)",
+        "managing_directors": [
+          "Birgit Stoib",
+          "Andreas Pfingst",
+          "Nils Stegemann",
+          "Mario Köhler"
+        ],
+        "business_address": {
+          "type": "Sitz der Verwaltung",
+          "street": "Schmollerstr. 13",
+          "city": "Schwäbisch Hall",
+          "postal_code": "74523",
+          "country": "Germany"
+        },
+        "registered_office_city": "Schwäbisch Hall",
+        "phone_numbers": [],
+        "email_addresses": [
+          "info@fmobus.de"
+        ],
+        "website_url": null,
+        "registration_details": {
+          "trade_register": {
+            "court": "Stuttgart",
+            "number": "HRB 571483"
+          }
+        },
+        "vat_id": null,
+        "professional_liability_insurance_details": null,
+        "other_relevant_info": [
+          {
+            "role": "Verantwortlich für die Inhalte",
+            "name": "Anke Krüger-Wilsch",
+            "department": "Marketing und Kommunikation"
+          }
+        ]
+      },
+      {
+        "company_name": "Regionalverkehr Alb-Bodensee GmbH (RAB)",
+        "managing_directors": [
+          "Dieter Unseld",
+          "Andreas Pfingst",
+          "Nils Stegemann"
+        ],
+        "business_address": {
+          "type": "Sitz der Verwaltung",
+          "street": "Karlstr. 31-33",
+          "city": "Ulm",
+          "postal_code": "89073",
+          "country": "Germany"
+        },
+        "registered_office_city": "Ulm",
+        "phone_numbers": [],
+        "email_addresses": [
+          "servicecenter@dbregiobus-rab.de"
+        ],
+        "website_url": null,
+        "registration_details": {
+          "trade_register": {
+            "court": "Ulm",
+            "number": "HRB 2127"
+          }
+        },
+        "vat_id": null,
+        "professional_liability_insurance_details": null,
+        "other_relevant_info": [
+          {
+            "role": "Verantwortlich für die Inhalte",
+            "name": "Anke Krüger-Wilsch",
+            "department": "Marketing und Kommunikation"
+          }
+        ]
+      }
+    ]
+  },
+  "markdown_content": "Impressum von DB Regio Bus Baden-Württemberg\n\n\n\n\n\n* [Zu den Hauptinhalten springen](/home/impressum#content)\n\n\n[![Startseite](https://assets.static-bahn.de/dam/jcr:dacdca57-6548-4ab7-8ad9-4d2f90bcf0f0/SI_Regio-Bus_BaWue.svg)](/)\n\n* [Startseite\n  Weitere Informationen: Startseite](/)\n* [Kontakt\n  Weitere Informationen: Kontakt](/service/kontakt)\n* [Unternehmen\n  Weitere Informationen: Unternehmen](/wir)\n\nSuchbegriff\n\nHauptnavigation\n\n\n[![Startseite](https://assets.static-bahn.de/dam/jcr:dacdca57-6548-4ab7-8ad9-4d2f90bcf0f0/SI_Regio-Bus_BaWue.svg)](/)\n\nSuchbegriff\n\n* [Fahrplan](/fahrplan)\n* [Angebot](/angebot)\n* [Tickets](/tickets)\n* [Service](/service)\n* [Aktuell](/aktuell)\n* [Stellenangebote](https://www.dbregiobus-bawue.de/aktuell/stellenangebote)\n\nSuchbegriff\n\n\n\n# DB Regio Bus Baden-Württemberg\n\n\n\n1. [StartseiteStartseite](/)\n2. [Informationen](/home)\n3. Impressum\n\nDB Regio Bus Baden-Württemberg\n\n### BRN Busverkehr Rhein-Neckar GmbH\n\nSitz der Gesellschaft: Ludwigshafen/Rh.  \n  \n**Sitz der Verwaltung:**  \nGutschstraße 4  \n76137 Karlsruhe  \n[busbw@deutschebahn.com](mailto:busbw@deutschebahn.com)  \n  \nAmtsgericht: Ludwigshafen/Rh.  \nHandelsregister-Nr.: HRB 3089  \nUSt-IdNr.: DE 149137974  \n  \n**Vertretungsberechtigte Geschäftsführer:**  \nAndreas Pfingst, Nils Stegemann, Karlheinz Nuissl  \n  \n**Verantwortlich für die Inhalte:**  \nAnke Krüger-Wilsch (Marketing und Kommunikation)\n\n### Südwestbus RVS Regionalbusverkehr Südwest GmbH\n\nSitz der Gesellschaft: Karlsruhe  \n  \n**Sitz der Verwaltung:**  \nGutschstraße 4  \n76137 Karlsruhe  \n[busbw@deutschebahn.com](mailto:busbw@deutschebahn.com)  \n  \nAmtsgericht: Mannheim  \nHandelsregister-Nr.: HRB 105225  \nUSt-IdNr.: DE143604917  \n  \n**Vertretungsberechtigte Geschäftsführer:**  \nAndreas Pfingst, Nils Stegemann, Frank Wilsing, Jens Heinrich  \n  \n**Verantwortlich für die Inhalte:**  \nAnke Krüger-Wilsch (Marketing und Kommunikation)\n\n### SBG SüdbadenBus Gesellschaft mbH\n\n**Sitz der Verwaltung:**  \nGutschstraße 4  \n76137 Karlsruhe  \n[busbw@deutschebahn.com](mailto:busbw@deutschebahn.com)  \n  \nSitz der Geschäftsleitung: Karlsruhe  \nSitz der Gesellschaft: Freiburg  \nHandelsregister-Nr.: HRB 3609  \nUst-IdNr.: DE 142113829  \n  \n**Vertretungsberechtigte Geschäftsführer:**  \nAndreas Pfingst, Nils Stegemann, Markus Jehle\n\n**Verantwortlich für die Inhalte:**  \nAnke Krüger-Wilsch (Marketing und Kommunikation)\n\n### Friedrich Müller Omnibusunternehmen (FMO)\n\n**Sitz der Verwaltung:**  \nFriedrich Müller Omnibusunternehmen GmbH  \nSchmollerstr. 13  \n74523 Schwäbisch Hall  \n[info@fmobus.de](mailto:info@fmobus.de)  \n  \n**Geschäftsführer**  \nBirgit Stoib, Andreas Pfingst, Nils Stegemann, Mario Köhler  \nSitz der Gesellschaft: Schwäbisch Hall  \nAmtsgericht Stuttgart HRB 571483\n\n**Verantwortlich für die Inhalte:**  \nAnke Krüger-Wilsch (Marketing und Kommunikation)\n\n### Regionalverkehr Alb-Bodensee GmbH (RAB)\n\n**Sitz der Verwaltung:**  \nRegionalverkehr Alb-Bodensee GmbH  \nKarlstr. 31-33  \n89073 Ulm  \n[servicecenter@dbregiobus-rab.de](mailto:servicecenter@dbregiobus-rab.de)  \n  \n**Geschäftsführer**  \nDieter Unseld  \nAndreas Pfingst  \nNils Stegemann  \nSitz der Gesellschaft: Ulm  \nAmtsgericht Ulm HRB 2127\n\n**Verantwortlich für die Inhalte:**  \nAnke Krüger-Wilsch (Marketing und Kommunikation)\n\n## Haftungsausschluss\n\n**1. Inhalt des Onlineangebotes**  \nDie DB Regional Bus Baden-Württemberg (im Folgenden \"der Autor\" genannt) übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt.  \nAlle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.  \n  \n**2. Verweise und Links**  \nBei direkten oder indirekten Verweisen auf fremde Webseiten (\"Hyperlinks\"), die außerhalb des Verantwortungsbereiches des Autors liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem der Autor von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.  \nDer Autor erklärt hiermit ausdrücklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verknüpften Seiten hat der Autor keinerlei Einfluss. Deshalb distanziert er sich hiermit ausdrücklich von allen Inhalten aller verlinkten /verknüpften Seiten, die nach der Linksetzung verändert wurden. Diese Feststellung gilt für alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie für Fremdeinträge in vom Autor eingerichteten Gästebüchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe möglich sind. Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist.  \n  \n**3. Urheber- und Kennzeichenrecht**  \nDer Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen.  \nAlle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!  \nDas Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.  \n  \n**4. Datenschutz**  \nSofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller angebotenen Dienste ist - soweit technisch möglich und zumutbar - auch ohne Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet. Die Nutzung der im Rahmen des Impressums oder vergleichbarer Angaben veröffentlichten Kontaktdaten wie Postanschriften, Telefon- und Faxnummern sowie Emailadressen durch Dritte zur Übersendung von nicht ausdrücklich angeforderten Informationen ist nicht gestattet. Rechtliche Schritte gegen die Versender von sogenannten Spam-Mails bei Verstössen gegen dieses Verbot sind ausdrücklich vorbehalten.  \n  \nDatenschutzbeauftragte:  \nFrau Dr. Marein Müller  \n[konzerndatenschutz@deutschebahn.com](mailto:konzerndatenschutz@deutschebahn.com)  \n  \n**5. Rechtswirksamkeit dieses Haftungsausschlusses**  \nDieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.\n\n## Weiterführende Informationen\n\n### Übersicht Datenschutz\n\n* [Datenschutzhinweise\n  Weitere Informationen: Datenschutzhinweise](/home/datenschutz)\n* [Datenschutzhinweise Videoüberwachung\n  Weitere Informationen: Datenschutzhinweise Videoüberwachung](/home/datenschutz-video)\n\n* [Impressum\n  Weitere Informationen: Impressum](/home/impressum)\n* [Tarifbestimmungen\n  Weitere Informationen: Tarifbestimmungen](/tickets)\n* [Datenschutzhinweise\n  Weitere Informationen: Datenschutzhinweise](/home/datenschutz)\n* [Vertrag kündigen\n  Weitere Informationen: Vertrag kündigen](/tickets/kuendigungsformular)"
+}

@@ -1,0 +1,33 @@
+{
+  "timestamp": "20250722_102730",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:27:36",
+    "timezone": "WEST"
+  },
+  "url": "https://www.findorama.de",
+  "imprint_url": "https://www.findorama.de/imprint.html",
+  "imprint_data": {
+    "company_name": null,
+    "managing_directors": [],
+    "business_address": {
+      "street": null,
+      "city": null,
+      "postal_code": null,
+      "country": null
+    },
+    "phone_numbers": [],
+    "email_addresses": [],
+    "website_url": null,
+    "registration_details": {
+      "trade_register": null,
+      "registration_number": null,
+      "court": null
+    },
+    "vat_id": null,
+    "tax_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_info": {}
+  },
+  "markdown_content": "Imprint\n\n![](./Imprint_files/impr.gif)  \n  \n  \n  \n  \n![](./Imprint_files/disclaimer.jpg)"
+}

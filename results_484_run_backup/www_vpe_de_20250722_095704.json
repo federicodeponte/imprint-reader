@@ -1,0 +1,64 @@
+{
+  "timestamp": "20250722_095704",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "09:57:26",
+    "timezone": "WEST"
+  },
+  "url": "https://www.vpe.de",
+  "imprint_url": "https://www.vpe.de/impressum.php",
+  "imprint_data": {
+    "company_name": "Verkehrsverbund Pforzheim-Enzkreis GmbH (VPE)",
+    "managing_directors": [
+      "Daniel Peikert"
+    ],
+    "business_address": {
+      "street": "Luitgardstraße 14–18",
+      "city": "Pforzheim",
+      "postal_code": "75177",
+      "country": "Germany"
+    },
+    "phone_numbers": [
+      "+49 7231 414 66-0",
+      "+49 7231 443 1474 (Service Number)"
+    ],
+    "fax_numbers": [
+      "+49 7231 414 66-66"
+    ],
+    "email_addresses": [
+      "info@vpe.de"
+    ],
+    "website_url": null,
+    "registration_details": {
+      "trade_register": "Amtsgericht Mannheim",
+      "registration_number": "HRB 503 780",
+      "legal_form": "Gesellschaft mit beschränkter Haftung (GmbH)"
+    },
+    "tax_id": "41487/26003",
+    "vat_id": null,
+    "professional_liability_insurance": null,
+    "other_legal_and_contact_information": {
+      "content_responsible_DDG_MStV": {
+        "name": "Verkehrsverbund Pforzheim-Enzkreis GmbH (VPE)",
+        "legal_form": "Gesellschaft mit beschränkter Haftung (GmbH)",
+        "managing_director": "Daniel Peikert"
+      },
+      "content_responsible_RStV": {
+        "name": "Daniel Peikert",
+        "address": "Luitgardstraße 14–18, 75177 Pforzheim"
+      },
+      "chairman_of_supervisory_board": "Landrat Bastian Rosenau",
+      "eu_online_dispute_resolution_platform": "https://ec.europa.eu/consumers/odr/",
+      "consumer_dispute_resolution_statement": "We are not obliged and not willing to participate in dispute resolution proceedings before a consumer arbitration board.",
+      "copyright": "© 2025 VPE | Verkehrsverbund Pforzheim-Enzkreis",
+      "social_media": {
+        "facebook": "https://www.facebook.com/vpe.verbindet",
+        "linkedin": "https://www.linkedin.com/company/12253025"
+      },
+      "notes": [
+        "No ticket sales at the business address."
+      ]
+    }
+  },
+  "markdown_content": "Impressum – VPE\n\n \n\n\n\n﻿\n\n\n\n\n[![Logo des Verkehrsverbunds Pforzheim-Enzkreis](images/vpe_logo.svg)](index.php)\n\n\n\n\n\n\n\n\n\n* [Home](index.php)\n* [Aktuelles](aktuelles.php)\n* [Tickets & Tarif](tickets-tarif.php)\n\n  ▼\n\n  + [Fahrpreise und Tarifzonen](tickets-fahrpreise.php)\n  + [Fahrscheinarten](tickets-fahrscheinarten.php)\n\n    ▶\n\n    - [Deutschlandticket](fahrschein-deutschlandticket.php)\n    - [D-Ticket JugendBW](fahrschein-jugendbw.php)\n    - [Einzelfahrscheine](fahrschein-einzelfahrt.php)\n    - [TagesTickets](fahrschein-tagestickets.php)\n    - [Zeitkarten](fahrschein-zeitkarten.php)\n    - [City-Ticket (DB Tarif)](fahrschein-cityticket.php)\n  + [Weitere Informationen](tickets-weitere-info.php)\n\n    ▶\n\n    - [Bwtarif](bwtarif.php)\n    - [KONUS-Gästekarte](konus.php)\n    - [Kult-Tour-/Autoticket](kult-tour-autoticket.php)\n    - [Schwerbehinderte Menschen](schwerbehinderte.php)\n    - [Nachbarverbünde](nachbarverbuende.php)\n    - [Gemeinschaftstarif](gemeinschaftstarif.php)\n* [Rundum mobil](rundum-mobil.php)\n\n  ▼\n\n  + [VPE Mobilitätsplattform](mobilitaetsplattform.php)\n  + [DB-Navigator](db-navigator.php)\n  + [bwegt - CiCoBW-App](bwegt-cicobw.php)\n  + [bwegt - Fahrplanauskunft](bwegt-fahrplanauskunft.php)\n  + [Bwtarif](bwtarif.php)\n  + [Unsere Zugaben](zugaben.php)\n* [Service & Kontakt](service-kontakt.php)\n\n  ▼\n\n  + [Service](service.php)\n\n    ▶\n\n    - [Abo-Bestellungen](service-abo.php)\n    - [Häufig gestellte Fragen](service-faq.php)\n    - [Mobilitätsgarantie](service-garantie.php)\n    - [Fundsachen](service-fund.php)\n    - [Störungen an Fahrscheinautomaten](service-stoerung.php)\n    - [Downloads](service-downloads.php)\n    - [Drive - das Kundenmagazin](service-drive.php)\n  + [Kontakt](kontakt.php)\n\n    ▶\n\n    - [Verkehrsunternehmen](kontakt-verkehrsunternehmen.php)\n    - [Vorverkaufsstellen](kontakt-vvs.php)\n    - [Verkehrsverbünde](kontakt-verbuende.php)\n  + [Freizeit](freizeit.php)\n\n    ▶\n\n    - [Moonlight-Busse](freizeit-moonlightbus.php)\n    - [Kulturbahn](freizeit-kulturbahn.php)\n    - [Klosterstadt Express](freizeit-klosterstadt.php)\n    - [Sommerbergbahn Bad Wildbad](freizeit-wildbad.php)\n    - [Fahrradmitnahme](freizeit-fahrradmitnahme.php)\n    - [Gruppenreisen](freizeit-gruppenreisen.php)\n* [Über uns](ueber-uns.php)\n\n  ▼\n\n  + [Geschichte](geschichte.php)\n  + [Mitarbeiter & Kontaktadressen](mitarbeiter.php)\n  + [Karriere](karriere.php)\n* [Bus & Bahn-Team](bus-bahn-team.php)\n\n  ▼\n\n  + [Aktuelles vom Bus & Bahn-Team](busbahn-aktuelles.php)\n\n\n[Fahrplan](fahrplan.php)\n\n# Impressum\n\n# Impressum\n\n[Startseite](index.php) » Impressum\n[Startseite](index.php) » Impressum\n\n## Impressum\n\nAngaben gemäß § 5 des Digitale-Dienste-Gesetzes (DDG) und § 18 Absatz 2 Medienstaatsvertrag (MStV)\n\n### Verantwortlich für den Inhalt\n\nVerkehrsverbund Pforzheim-Enzkreis GmbH (VPE)  \nRechtsform: Gesellschaft mit beschränkter Haftung (GmbH)  \nGeschäftsführer: Daniel Peikert\n\n### Kontakt\n\nLuitgardstraße 14–18  \n75177 Pforzheim  \nTel.: 07231 414 66-0  \nFax: 07231 414 66-66  \nE-Mail: [info@vpe.de](mailto:info@vpe.de)\n\n### Registereintrag\n\nHandelsregisternummer: HRB 503 780  \nRegistergericht: Amtsgericht Mannheim\n\n### Steuernummer\n\n41487/26003\n\n### Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV\n\nDaniel Peikert  \nLuitgardstraße 14–18  \n75177 Pforzheim\n\n### Vorsitzender des Aufsichtsrats\n\nLandrat Bastian Rosenau\n\n### Geobasisinformationen\n\nVPE mobi – © OpenStreetMap und Mitwirkende\n\n### EU-Streitschlichtung\n\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:\n<https://ec.europa.eu/consumers/odr/>\n\n### Verbraucherstreitbeilegung\n\nWir sind nicht verpflichtet und nicht bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\n### Haftungsausschluss\n\nInformationen zum Haftungsausschluss finden Sie [hier](haftungsausschluss.php).\n\n\n\n### GESCHÄFTSSTELLE\n\nLuitgardstraße 14–18  \n75177 Pforzheim  \nFax.: +49 (7231) 414 66-66  \nE-Mail: [info@vpe.de](mailto:info@vpe.de)\n\nHier kein Fahrkartenverkauf. Bitte wenden Sie sich in diesem Falle an Ihr beförderndes Verkehrsunternehmen.\n\nHier können Sie keine Fahrkarte kaufen. Bitte fragen Sie Ihr Bus- oder Bahn-Unternehmen.\n\n### VPE SERVICE NUMMER\n\n[Telefon: +49 (7231) 443 1474](tel:+4972314431474)\n\n![Suchen](images/icon-search.svg)\n\n[Facebook](https://www.facebook.com/vpe.verbindet \"Facebook\")\n\n[LinkedIn](https://www.linkedin.com/company/12253025 \"LinkedIn\")\n\nCopyright © 2025 VPE | Verkehrsverbund Pforzheim-Enzkreis  \n[Impressum](impressum.php) |\n[Urheberrecht](urheberrecht.php) |\n[Datenschutz](datenschutz.php) |\n[Haftungsausschluss](haftungsausschluss.php) |\n[Links](links.php) |\n[Barrierefreiheit](barrierefreiheit.php)\n\n[RSS-Feed abonnieren](rss-links.php)\n\nBarrierefreiheits-Optionen\n\nDunkelmodus\nHoher Kontrast\nTextgröße erhöhen\nTextgröße verringern\nTextabstand\nLinienabstand\nSchriftart ändern\n  Cursor vergrößern\nText vorlesen\nEinfache Sprache\n Schließen\n\n\n\naccessibility\n\n[▲](# \"Nach oben\")\n\n\n## JavaScript ist deaktiviert\n\nEinige Funktionen dieser Website stehen Ihnen leider nicht zur Verfügung.\n\nBitte aktivieren Sie JavaScript in Ihrem Browser, um alle Inhalte und Funktionen nutzen zu können."
+}

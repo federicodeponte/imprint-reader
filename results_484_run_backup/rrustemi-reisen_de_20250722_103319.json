@@ -1,0 +1,46 @@
+{
+  "timestamp": "20250722_103319",
+  "processing_info": {
+    "date": "2025-07-22",
+    "time": "10:33:40",
+    "timezone": "WEST"
+  },
+  "url": "http://rrustemi-reisen.de",
+  "imprint_url": "http://rrustemi-reisen.de/impressum",
+  "imprint_data": {
+    "company_name": "Muster GmbH",
+    "managing_directors": [
+      "Max Mustermann",
+      "Erika Mustermann"
+    ],
+    "business_address": {
+      "street": "Musterstraße 123",
+      "city": "Musterstadt",
+      "postal_code": "12345",
+      "country": "Deutschland"
+    },
+    "phone_numbers": [
+      "+49 (0)123 456789-0"
+    ],
+    "email_addresses": [
+      "info@mustergmbh.de"
+    ],
+    "website_url": "https://www.mustergmbh.de",
+    "registration_details": {
+      "trade_register": "Handelsregister",
+      "registration_number": "HRB 123456",
+      "court": "Amtsgericht Musterstadt"
+    },
+    "vat_id": "DE123456789",
+    "tax_id": "123/456/78901",
+    "professional_liability_insurance": null,
+    "other_legal_info": {
+      "competent_supervisory_authority": "Regierungspräsidium Musterstadt",
+      "dispute_resolution_platform": "https://ec.europa.eu/consumers/odr",
+      "liability_for_content": "As a service provider, we are responsible for our own content according to § 7 Abs.1 TMG. No obligation to monitor third-party info (§§ 8-10 TMG). Liability for infringements only from knowledge. Content removed upon discovery of infringement.",
+      "liability_for_links": "Our offer links to external websites. We have no influence on their content and assume no liability. Responsibility lies with the respective provider. Links checked; illegal content not recognized. Links removed upon discovery of infringement.",
+      "copyright": "Content created by site operators is subject to German copyright. Duplication, processing, distribution require written consent. Downloads/copies for private, non-commercial use. Third-party content copyright respected. Infringements reported will lead to removal."
+    }
+  },
+  "markdown_content": ""
+}
